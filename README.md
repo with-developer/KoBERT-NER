@@ -13,7 +13,7 @@
 
 - **Naver NLP Challenge 2018**의 NER Dataset 사용 ([Github link](https://github.com/naver/nlp-challenge))
 - 해당 데이터셋에 Train dataset만 존재하기에, Test dataset은 Train dataset에서 split하였습니다. ([Data link](https://github.com/aisolab/nlp_implementation/tree/master/Bidirectional_LSTM-CRF_Models_for_Sequence_Tagging/data))
-  - Train (81,000) / Test (9,000)
+  - Train (81,000) / Test (9,000) 
 
 ## How to use KoBERT on Huggingface Transformers Library
 
